@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-0 C:\Users\ASUS\.gradle\caches\transforms-3\0468ba65a81d3eaf9b907277ed0b764c\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-1 C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\84932e0996c7d7375796a60523db6446\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-core-1.6.0-3 C:\Users\ASUS\.gradle\caches\transforms-3\9a0febf4d4c178be649a791ade37895d\transformed\core-1.6.0\res
+com.tekartik.sqflite-main-4 C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\sqflite\intermediates\merged_res\release

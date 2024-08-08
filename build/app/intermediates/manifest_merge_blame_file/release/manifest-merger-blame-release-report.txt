@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.wallpaper_app"
+4    android:versionCode="1"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:2:1-62
+11-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:2:18-60
+12    <!--
+13         Required to query activities that can process text, see:
+14         https://developer.android.com/training/package-visibility and
+15         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+16
+17         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+18    -->
+19    <queries>
+19-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:41:5-46:15
+20        <intent>
+20-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:42:9-45:18
+21            <action android:name="android.intent.action.PROCESS_TEXT" />
+21-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:43:13-72
+21-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:43:21-70
+22
+23            <data android:mimeType="text/plain" />
+23-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:44:13-50
+23-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:44:19-48
+24        </intent>
+25    </queries>
+26
+27    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+27-->[:flutter_wallpaper_manager] C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-72
+27-->[:flutter_wallpaper_manager] C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-69
+28
+29    <application
+30        android:name="android.app.Application"
+30-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:6:9-42
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\9a0febf4d4c178be649a791ade37895d\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:7:9-43
+33        android:label="wallpaper_app"
+33-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:5:9-38
+34        android:usesCleartextTraffic="true" >
+34-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:4:9-44
+35        <activity
+35-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:8:9-29:20
+36            android:name="com.example.wallpaper_app.MainActivity"
+36-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:9:13-41
+37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+37-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:14:13-163
+38            android:exported="true"
+38-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:10:13-36
+39            android:hardwareAccelerated="true"
+39-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:15:13-47
+40            android:launchMode="singleTop"
+40-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:11:13-43
+41            android:taskAffinity=""
+41-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:12:13-36
+42            android:theme="@style/LaunchTheme"
+42-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:13:13-47
+43            android:windowSoftInputMode="adjustResize" >
+43-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:16:13-55
+44
+45            <!--
+46                 Specifies an Android theme to apply to this Activity as soon as
+47                 the Android process has started. This theme is visible to the user
+48                 while the Flutter UI initializes. After that, this theme continues
+49                 to determine the Window background behind the Flutter UI.
+50            -->
+51            <meta-data
+51-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:21:13-24:17
+52                android:name="io.flutter.embedding.android.NormalTheme"
+52-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:22:15-70
+53                android:resource="@style/NormalTheme" />
+53-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:23:15-52
+54
+55            <intent-filter>
+55-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:25:13-28:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:26:17-68
+56-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:26:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:27:17-76
+58-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:27:27-74
+59            </intent-filter>
+60        </activity>
+61        <!--
+62             Don't delete the meta-data below.
+63             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+64        -->
+65        <meta-data
+65-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:32:9-34:33
+66            android:name="flutterEmbedding"
+66-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:33:13-44
+67            android:value="2" />
+67-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:34:13-30
+68
+69        <uses-library
+69-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+70            android:name="androidx.window.extensions"
+70-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+71            android:required="false" />
+71-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+72        <uses-library
+72-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+73            android:name="androidx.window.sidecar"
+73-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+74            android:required="false" />
+74-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+75    </application>
+76
+77</manifest>

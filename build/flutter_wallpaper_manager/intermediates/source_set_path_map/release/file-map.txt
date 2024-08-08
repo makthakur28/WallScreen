@@ -1,0 +1,12 @@
+com.pk.wallpapermanager.flutter_wallpaper_manager-jetified-window-java-1.0.0-beta04-0 C:\Users\ASUS\.gradle\caches\transforms-3\0468ba65a81d3eaf9b907277ed0b764c\transformed\jetified-window-java-1.0.0-beta04\res
+com.pk.wallpapermanager.flutter_wallpaper_manager-jetified-window-1.0.0-beta04-1 C:\Users\ASUS\.gradle\caches\transforms-3\46c3304ba2e9911b946c40ea73f2756f\transformed\jetified-window-1.0.0-beta04\res
+com.pk.wallpapermanager.flutter_wallpaper_manager-jetified-annotation-experimental-1.1.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\84932e0996c7d7375796a60523db6446\transformed\jetified-annotation-experimental-1.1.0\res
+com.pk.wallpapermanager.flutter_wallpaper_manager-core-1.6.0-3 C:\Users\ASUS\.gradle\caches\transforms-3\9a0febf4d4c178be649a791ade37895d\transformed\core-1.6.0\res
+com.pk.wallpapermanager.flutter_wallpaper_manager-main-4 C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_wallpaper_manager-0.0.4\android\src\main\res
+com.pk.wallpapermanager.flutter_wallpaper_manager-release-5 C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_wallpaper_manager-0.0.4\android\src\release\res
+com.pk.wallpapermanager.flutter_wallpaper_manager-pngs-6 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\generated\res\pngs\release
+com.pk.wallpapermanager.flutter_wallpaper_manager-resValues-7 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\generated\res\resValues\release
+com.pk.wallpapermanager.flutter_wallpaper_manager-rs-8 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\generated\res\rs\release
+com.pk.wallpapermanager.flutter_wallpaper_manager-mergeReleaseResources-9 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.pk.wallpapermanager.flutter_wallpaper_manager-mergeReleaseResources-10 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.pk.wallpapermanager.flutter_wallpaper_manager-merged_res-11 C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\build\flutter_wallpaper_manager\intermediates\merged_res\release
