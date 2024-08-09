@@ -45,8 +45,8 @@
 31-->[androidx.core:core:1.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\9a0febf4d4c178be649a791ade37895d\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 32        android:icon="@mipmap/ic_launcher"
 32-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:7:9-43
-33        android:label="wallpaper_app"
-33-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:5:9-38
+33        android:label="WallScreen"
+33-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:5:9-35
 34        android:usesCleartextTraffic="true" >
 34-->C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:4:9-44
 35        <activity

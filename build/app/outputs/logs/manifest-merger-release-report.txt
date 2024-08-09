@@ -10,7 +10,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AS
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\9a0febf4d4c178be649a791ade37895d\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:5:9-38
+		ADDED from C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:5:9-35
 	android:icon
 		ADDED from C:\Users\ASUS\Desktop\Flutter Practice\LinkedIn Project Series\wallpaper_app\android\app\src\main\AndroidManifest.xml:7:9-43
 	android:usesCleartextTraffic

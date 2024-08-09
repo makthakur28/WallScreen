@@ -30,7 +30,7 @@
         android:name="android.app.Application"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
-        android:label="wallpaper_app"
+        android:label="WallScreen"
         android:usesCleartextTraffic="true" >
         <activity
             android:name="com.example.wallpaper_app.MainActivity"
